@@ -4,9 +4,9 @@ Behat Documentation
 Background
 ----------
 
-Behat is an open source behavior driven development framework for PHP 5.3.
+Behat is an `open source <http://creativecommons.org/licenses/MIT/>`_ `behavior driven development <http://en.wikipedia.org/wiki/Behavior_Driven_Development>`_ framework for php 5.3.
 
-Behat was inspired by Ruby’s Cucumber project and especially it’s syntax part (Gherkin). It tries to be like Cucumber with input (Feature files) and output (console formatters).
+Behat was inspired by Ruby's `Cucumber <http://cukes.info/>`_ project and especially it's syntax part (Gherkin). It tries to be like Cucumber with input (Feature files) and output (console formatters).
 
 After installation, read this great articles about BDD:
 
