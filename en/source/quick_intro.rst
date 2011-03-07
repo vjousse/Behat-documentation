@@ -11,7 +11,7 @@ Behat was inspired by Ruby's `Cucumber <http://cukes.info/>`_ project and especi
 * Symfony Finder component
 * Symfony Translation component
 
-Unlike any other php testing framework that tests applications inside out, Behat is testing applications `outside in <http://blog.dannorth.net/whats-in-a-story/>`_. It means, that Behat works only with your application's input/output. If you want to test your models - use unit testing framework instead, Behat created for behavior testing (but can be used for anything +) ).
+Unlike any other php testing framework that tests applications inside out, Behat is testing applications `outside in <http://blog.dannorth.net/whats-in-a-story/>`_. It means that Behat works only with your application's input/output. If you want to test your models - use unit testing framework instead. Behat was created for behavior testing (but can be used for anything +) ).
 
 Install
 -------
